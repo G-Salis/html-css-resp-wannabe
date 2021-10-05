@@ -76,6 +76,10 @@ img{
     padding-bottom: 20px;
   }
 
+  img{
+    height: 100px;
+  }
+
   #lezioni .row > .left, #lezioni .row > .right{
   width: 100%;
   margin: 0 auto;
